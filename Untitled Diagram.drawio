@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-30T10:14:59.371Z" agent="5.0 (X11)" etag="n1SHYx8DMxxVdDeFJ6EV" version="13.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-02T06:19:10.261Z" agent="5.0 (X11)" etag="KUwM_42CmAhj67flvuIM" version="13.5.5" type="github">
   <diagram id="ZYf_PVoNdOq3cqknjMwv" name="Page-1">
-    <mxGraphModel dx="1172" dy="1067" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1141" dy="1034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="fVG7iG_rJsYv7wUMt9iN-6" value="Target" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" parent="fVG7iG_rJsYv7wUMt9iN-3" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E1jqSdFXgTEgA6t2SXgY-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=and;" vertex="1" parent="1">
+          <mxGeometry x="240" y="570" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
